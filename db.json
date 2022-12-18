@@ -3,10 +3,11 @@
     {
       "totalPageCount": 2,
       "totalRecordCount": 8,
-      "currentPage": 1
+      "currentPage": 1,
+      "recordPerPage" : 5
     }
   ],
-  "kokyakuIchiranList": [
+  "kokyakuMasterIchiranList": [
     {
       "comkykichiranCod": "AAAA",
       "comkeikykCod": "01",
